@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ktz:home|Door43 (ktz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ktz|d43-ktz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ktz/archive/master.zip|d43-ktz.zip]]
+
+**Recent Changes**
+{{changes>ns = ktz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ktz|Ethnologue data]]
+
